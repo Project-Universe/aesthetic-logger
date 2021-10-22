@@ -11,5 +11,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Heptagram-Bot/logger"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
   }
 }
