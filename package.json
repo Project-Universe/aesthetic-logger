@@ -6,19 +6,25 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jasper Mayone",
+  "author": {
+    "name": "Jasper Mayone (Project Universe)",
+    "email": "j.dogcoder@gmail.com"
+  },
   "license": "EPL-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Heptagram-Bot/aesthetic-logger.git"
+    "url": "git+https://github.com/Project-Universe/aesthetic-logger.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Project-Universe"
   },
   "dependencies": {
     "chalk": "^4.1.2"
   },
   "bugs": {
-    "url": "https://github.com/Heptagram-Bot/aesthetic-logger/issues"
+    "url": "https://github.com/Project-Universe/aesthetic-logger/issues"
   },
-  "homepage": "https://github.com/Heptagram-Bot/aesthetic-logger#readme",
+  "homepage": "https://github.com/Project-Universe/aesthetic-logger#readme",
   "directories": {
     "doc": "docs"
   }
