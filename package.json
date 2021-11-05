@@ -1,8 +1,9 @@
 {
-  "name": "aesthetic-logger",
+  "name": "@project-universe/aesthetic-logger",
   "version": "0.0.1",
   "description": "An Logger class for easy and aesthetically pleasing console logging ",
   "main": "index.js",
+  "private": "false",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,9 +11,16 @@
   "license": "EPL-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Heptagram-Bot/aesthetic-logger"
+    "url": "git+https://github.com/Heptagram-Bot/aesthetic-logger.git"
   },
   "dependencies": {
     "chalk": "^4.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Heptagram-Bot/aesthetic-logger/issues"
+  },
+  "homepage": "https://github.com/Heptagram-Bot/aesthetic-logger#readme",
+  "directories": {
+    "doc": "docs"
   }
 }
