@@ -2,6 +2,7 @@
 
 # Aesthetic Logger
 ## An logger class for easy and aesthetically pleasing console logging
+## Some project elements are already setup
 
 ### More details coming soon.
 
